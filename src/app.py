@@ -1,0 +1,1 @@
+print("Smart Notes Manager")
