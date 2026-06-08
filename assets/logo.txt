@@ -1,0 +1,2 @@
+Placeholder logo file.
+This folder stores images, icons, screenshots and other static resources.
